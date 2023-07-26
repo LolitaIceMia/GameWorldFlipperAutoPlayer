@@ -1,2 +1,2 @@
 # GameWorldFlipperAutoPlayer
-# GameWorldFlipperAutoPlayer
+弹射世界物语自动化脚本
